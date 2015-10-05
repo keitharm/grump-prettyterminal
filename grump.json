@@ -1,0 +1,10 @@
+{
+  "defaultCommand": "prettyterminal",
+  "commands": {
+    "prettyterminal": {
+      "scriptType": "bash",
+      "scriptPath": "prettyterminal.js",
+      "vars": {}
+    }
+  }
+}
