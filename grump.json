@@ -3,7 +3,7 @@
   "commands": {
     "prettyterminal": {
       "scriptType": "bash",
-      "scriptPath": "prettyterminal.js",
+      "scriptPath": "prettyterminal.sh",
       "vars": {}
     }
   }
